@@ -166,7 +166,6 @@ public class Actividad3 {
             System.out.println("|" + cat1[0] + "|" + cat1[1] + "|" + cat1[2] + "|");
         }
         
-       
     
     }
     }
