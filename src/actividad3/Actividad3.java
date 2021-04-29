@@ -165,7 +165,7 @@ public class Actividad3 {
        for (char[] cat1 : cat) {
             System.out.println("|" + cat1[0] + "|" + cat1[1] + "|" + cat1[2] + "|");
         }
-          System.out.println("ingrese el numero del ejercicio, del 1 al 8");
+         
        
     
     }
